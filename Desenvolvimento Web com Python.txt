@@ -1,0 +1,20 @@
+	*Desenvolvimento Web com Python*
+
+- Frameworks Full-stack
+Disponibilizam diversos recursos internamente, sem a necessidade de bibliotecas externas. Dentre os recursos, podemos citar:
+
+Respostas à requisição;
+Mecanismos de armazenamento (acesso ao banco de dados);
+Suporte a modelos (templates);
+Manipulação de formulários;
+Autenticação;
+Testes;
+Servidor para desenvolvimento, entre outros.
+O principal framework Python full-stack é o Django.
+
+- Frameworks não Full-stack
+Oferecem os recursos básicos para uma aplicação Web, como resposta à requisição e suporte a modelos. Os principais frameworks dessa categoria são o Flask e o CherryPy.
+
+Normalmente, para aplicações maiores, são utilizados os frameworks full-stack, que também são um pouco mais complexos de se utilizar.
+
+Para este módulo, usaremos o Flask.
